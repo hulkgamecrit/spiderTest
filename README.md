@@ -4,7 +4,7 @@ Test siderlms mock api:
 <http://docs.spiderlms.apiary.io/>
 
 ### mocha test framework
-<http://visionmedia.github.io/mocha/>
+<http://mochajs.org/>
 
 Ohter modules are used listed in: package.json
 
